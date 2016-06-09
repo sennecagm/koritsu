@@ -1,0 +1,166 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: lightblue;
+	height: 2200px;
+}
+
+body h1{
+	margin-left: 300px;
+	padding-top: 40px;
+	color: blue;
+}
+
+/* Div-1 */
+.div-1{
+	background-color: lightyellow;
+	width: 100%;
+	height: 150px;
+	margin: 25px 0px 0px 0px;
+}
+
+/*  Div-2   */
+
+.div-2{
+	background-color: lightgreen;
+	height: 90px;
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+
+/*    Navigation div nav1 - nav-4  */
+
+/* test nav only if it work ALERT div's have been commented out*/
+
+.nav{
+	background-color: pink;
+	overflow: hidden;
+	list-style: none;
+}
+
+li{
+	float: left;
+	margin-left: : 50%;
+	background-color: red;
+
+}
+
+li a{
+	display: inline-block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+
+
+ .nav{
+	display: inline;
+	background-color: red;
+	height: 90px;
+	width: 75px;
+	margin-left:200px;
+	border: 3px solid;
+
+}
+
+.div-3{
+	background-color: orange;
+	width: 100%;
+	height: 750px;
+}
+
+
+/*  subDiv nested inside of div-3  */
+
+
+.subDiv{
+	background-color: purple;
+	height: 600px;
+	width: 60%;
+	margin: 5% 20% 15% 20%;
+
+	border: 3px solid;
+}
+
+/* subDiv-2  for the blog on the right of the images*/
+/*
+.subDiv-2{
+	background-color: white;
+	height: 600px;
+	width: 200px;
+	float: right;
+}
+    commented out to move to new location 3/15 */
+
+
+		.subdiv-01{
+			background-color: red;
+			height: 95%;
+			width: 20%;
+			float: left;
+			margin: 20px 20px 20px 90px;
+		}
+
+		.subdiv-02{
+			background-color: red;
+			height: 95%;
+			width: 20%;
+			float: left;
+			margin: 20px 20px 20px 0px;
+			}
+
+			.subdiv-03{
+				background-color: red;
+				height: 95%;
+				width: 20%;
+				float: left;
+				margin: 20px 20px 20px 0px;
+				}
+
+				.subdiv-04{
+					background-color: red;
+					height: 95%;
+					width: 20%;
+					float: left;
+					margin: 20px 20px 20px 0px;
+					}
+
+					.img-1{
+						background-color: white;
+						height: 150px;
+						width: 150px;
+						float: left;
+						margin: 0% 20% 0% 20%;
+					}
+					.img-2{
+						background-color: white;
+						height: 150px;
+						width: 150px;
+						float: left;
+						margin: 0% 20% 0% 20%;
+					}
+					.img-3{
+						background-color: white;
+						height: 150px;
+						width: 150px;
+						float: left;
+						margin: 0% 20% 0% 20%;
+					}
+					.img-4{
+						background-color: white;
+						height: 150px;
+						width: 150px;
+						float: left;
+						margin: 0% 20% 0% 20%;
+					}
+
+					h2{
+						text-align: center;
+						}
+
+						p{
+							text-align: center;
+						}

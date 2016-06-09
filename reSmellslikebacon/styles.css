@@ -1,0 +1,12 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #FAF3BC;
+  background: #420600 url('img/bg-texture.jpg') repeat;
+}
+
+.hide-text{
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 0;
+}
